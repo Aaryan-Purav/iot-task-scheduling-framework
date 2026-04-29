@@ -9,9 +9,10 @@ Built as part of the Operating Systems and Computer Networks (OSCN) course at Vi
 ## Authors
 
 - **Aaryan Purav** — [aaryan.purav@vit.edu.in](mailto:aaryan.purav@vit.edu.in)
-- **Shailesh Pawar** — [shailesh.pawar@vit.edu.in](mailto:shailesh.pawar@vit.edu.in)
+- **Rishikesh Dhapate** — [rishikesh.dhapate@vit.edu.in](mailto:shailesh.pawar@vit.edu.in)
+- **Vedant Khairkar** — [vedant.khairkar@vit.edu.in](mailto:shailesh.pawar@vit.edu.in)
 
-**Guide:** Prof. Swapnil Ashtekar, Department of Electronics and Telecommunication, VIT Mumbai
+**Guide:** Prof. Amit Nerurkar, Department of Computer Engineering, VIT Mumbai
 
 ---
 
